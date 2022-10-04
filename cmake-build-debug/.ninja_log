@@ -1,0 +1,23 @@
+# ninja log v5
+2	143	6865874850161829	CMakeFiles/3.dir/OMP_4_tasks/3.cpp.obj	2e465b91b315bc6f
+1	191	6866013994667270	build.ninja	e560fca1279ef131
+589	778	6773592761525038	parallel_computing.exe	8f88b37759bc4066
+2	807	6866012311797070	CMakeFiles/PolygonArea.dir/task2_solved/PolygonArea.cpp.obj	dede38783333faaa
+2	147	6865783021957625	CMakeFiles/1.dir/OMP_4_tasks/1.cpp.obj	5b404ab836e12f33
+147	219	6865783022667615	1.exe	e779651a72fc75d5
+1	558	6865987808507811	CMakeFiles/Philosophers.dir/task1_solved/Philosophers.cpp.obj	c18887e283f490e2
+0	374	6865769641560997	CMakeFiles/Philosophers.dir/task2_solved/PolygonArea.cpp.obj	bd87d963e66716eb
+7	578	6865769956051652	CMakeFiles/PolygonArea.dir/task1_solved/Philosophers.cpp.obj	7da43ca8c8179771
+558	650	6865987809427806	Philosophers.exe	94f54a0abc7e11dc
+7	349	6865770020662269	CMakeFiles/1.dir/task2_solved/PolygonArea.cpp.obj	3c0ee50bca71f285
+2	544	6865770022612276	CMakeFiles/1.dir/task1_solved/Philosophers.cpp.obj	c84702f418d176a5
+2	64	6865869398511675	CMakeFiles/2.dir/OMP_4_tasks/2.cpp.obj	9c7f6f36a68f7d4c
+64	142	6865869399271679	2.exe	6a0ee6186193cd2b
+143	215	6865874850871818	3.exe	4c682718384fe988
+2	75	6865865671502966	CMakeFiles/2_solved.dir/OMP_4_tasks_solved/2_solved.cpp.obj	d4f68073c0cc9456
+76	156	6865865672292968	2_solved.exe	e5c796f27acae6ba
+2	60	6865901190682376	CMakeFiles/4.dir/OMP_4_tasks/4.cpp.obj	29028e5e1dd078a6
+60	139	6865901191472376	4.exe	caf6830ccb0eccb
+807	882	6866012312537048	PolygonArea.exe	96cf231fb516e4b
+0	557	6866014203281273	CMakeFiles/DiningPhilosophers.dir/task1/DiningPhilosophers.cpp.obj	805c024ab0d7c484
+557	641	6866014204121944	DiningPhilosophers.exe	420e1ae86fb3449a

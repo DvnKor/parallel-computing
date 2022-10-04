@@ -1,0 +1,11 @@
+"C:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2.3/bin/ninja/win/ninja.exe" -G Ninja -S D:\repos\parallel-computing -B D:\repos\parallel-computing\cmake-build-debug
+1
+2
+3
+4
+main
+DiningPhilosophers
+PolygonArea
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/repos/parallel-computing/cmake-build-debug
